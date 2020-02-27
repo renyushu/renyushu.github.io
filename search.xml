@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Python Web学习</title>
+    <url>/2020/02/20/Python-Web%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Web学习</title>
+    <url>/2020/02/20/Web%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>常见的Python解释器</title>
+    <url>/2020/02/20/%E5%B8%B8%E8%A7%81%E7%9A%84Python%E8%A7%A3%E9%87%8A%E5%99%A8/</url>
+    <content><![CDATA[<h2 id="Python-Web学习"><a href="#Python-Web学习" class="headerlink" title="Python Web学习"></a>Python Web学习</h2><h3 id="WSGI（Web-Server-Gateway-Interface-）"><a href="#WSGI（Web-Server-Gateway-Interface-）" class="headerlink" title="WSGI（Web Server Gateway Interface)）"></a>WSGI（Web Server Gateway Interface)）</h3>]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>Web</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>good-pythonner</title>
     <url>/2020/02/20/good-pythonner/</url>
     <content><![CDATA[<h2 id="我眼中一个好的Pythoneer应该具备的品质"><a href="#我眼中一个好的Pythoneer应该具备的品质" class="headerlink" title="我眼中一个好的Pythoneer应该具备的品质"></a>我眼中一个好的Pythoneer应该具备的品质</h2><ul>
@@ -10,7 +32,7 @@
 <li>知道python中大部分常用的类型（布尔值，字符串类型，数字类型，序列，集合，字典，生成器…）。</li>
 <li>知道如何编写pythonic的代码（上下文管理器，推导表达式，装饰器，切片…）。</li>
 <li>知道如何避免python中的一些坑，如可变的默认参数，闭包的迟绑定。</li>
-<li>知道python中的函数式编程以及map、filter的使用。- 知道list，tuple，dict，set等的时间复杂度和空间复杂度。</li>
+<li>知道python中的函数式编程以及map、filter的使用。- 知道list，tuple，dict，set等的时间复杂度和空间复杂度。<br>函数式编程的一个特点就是，允许把函数本身作为参数传入另一个函数，还允许返回一个函数！</li>
 <li>知道GIL的限制以及与多线程的关系。</li>
 <li>知道python的命名空间查找规则（LEGB）。</li>
 <li>知道python多继承的查找规则（MRO）。</li>
@@ -74,7 +96,6 @@
 ]]></content>
       <categories>
         <category>Python</category>
-        <category>Growth</category>
       </categories>
       <tags>
         <tag>Python</tag>
